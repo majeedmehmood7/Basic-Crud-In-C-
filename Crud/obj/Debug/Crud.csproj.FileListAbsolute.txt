@@ -1,0 +1,10 @@
+F:\C#\C# Crud\Crud\Crud\bin\Debug\Crud.exe.config
+F:\C#\C# Crud\Crud\Crud\bin\Debug\Crud.exe
+F:\C#\C# Crud\Crud\Crud\bin\Debug\Crud.pdb
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.Form1.resources
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.exe
+F:\C#\C# Crud\Crud\Crud\obj\Debug\Crud.pdb
